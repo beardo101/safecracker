@@ -8,7 +8,7 @@ accuracy = None
 show = None
 
 def welcome():
-	print("\n\n\n*****Welcome safecracker*****")
+	print("\n\n\n*****Welcome to Safecracker*****")
 	print("In this program you will set a three digit combination lock")
 	print("and the computer will guess the combination.")
 	input("\nAre you ready? Press Enter to continue...")
